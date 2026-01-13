@@ -27,4 +27,4 @@ This project implements a multilingual Neural Machine Translation system using a
 pip install -r requirements.txt
 python app.py
 
-📌 The Jupyter notebook (main.ipynb) is the primary source of implementation and evaluation.
+**📌 The Jupyter notebook (main.ipynb) is the primary source of implementation and evaluation.**
