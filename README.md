@@ -9,8 +9,7 @@ This project implements a multilingual Neural Machine Translation system using a
 - English
 - Hindi
 - Gujarati
-- Marathi
-- Tamil
+- any many more over 200 languages
 
 ## Technologies Used
 - Python
