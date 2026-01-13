@@ -1,4 +1,5 @@
-transformers
-torch
-sentencepiece
 flask
+torch
+transformers
+sentencepiece
+gunicorn
