@@ -109,7 +109,7 @@ HTML = """
             justify-content: center;
             align-items: center;
             padding: 20px;
-            overflow: hidden;
+            overflow: auto;
             position: relative;
         }
         
